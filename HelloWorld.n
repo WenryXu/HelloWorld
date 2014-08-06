@@ -1,0 +1,8 @@
+using System;
+public class Test
+{
+	public static Main() : void
+	{
+		System.Console.WriteLine ("Hello, world!");
+	}
+}
